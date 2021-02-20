@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}import{% endblock %}
+{% block content %}
+
+<style type="text/css">
+  .form_content {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  }
+</style>
+<div >
+	{% if messages %}
+	{% for message in messages %}
+	  <div class="alert {{ message.tags }} alert-dismissible" role="alert">
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+		  <span aria-hidden="true">&times;</span>
+		</button>
+		{{ message }}
+  	</div>
+	{% endfor %}
+	{% endif %}
+	<form class="form_content" action="{% url 'upload' %}" method="post" enctype="multipart/form-data">
+		<h1 class="h3 mb-3 font-weight-normal">Add Teachers</h1>
+		{{ form.as_p }}
+		{% csrf_token %}
+	<input  type="hidden" name="next" class="form-control" value="{{ next }}" />
+	<p><input class="btn btn-lg btn-primary btn-block" type="submit" value="Upload"></p>
+	</form>
+</div>
+{% endblock %}

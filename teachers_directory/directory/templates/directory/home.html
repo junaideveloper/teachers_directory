@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block content %}
+<style type="text/css">
+  .home-container {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+  margin: auto;
+  }
+</style>
+<div class="home-container">
+
+	{% if object_list %}
+	<p> Last Name : {% for first_char in last_name_filter %}
+						<a href="{% url 'home' %}?filter={{first_char}}&type=lastname">{{first_char}}</a>
+					{% endfor %}</p>
+
+	<p> Subject : {% for first_char in subject_filter %}
+						<a href="{%url 'home' %}?filter={{first_char}}&type=subject">{{first_char}}</a>
+					{% endfor %}
+	</p>
+	{% for teacher in object_list %}
+		<div>
+			<h3>{{ teacher.first_name }} {{teacher.last_name}} <a href="{% url 'details' teacher.id %}">Teach</a></h3>
+		</div>
+	{% endfor %}
+
+	{% else %}
+		{% if not request.user.is_authenticated %}
+  		<div>
+			<p><h5>Empty Data. Please Login upload data</h5></p>
+		</div>
+		{% endif %}
+  	{% endif %}
+
+</div>
+{% endblock content %}
+
+
+

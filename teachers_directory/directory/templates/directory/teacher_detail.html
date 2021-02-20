@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Teacher Detail{% endblock %}
+{% block content %}
+<style type="text/css">
+  .detail_content {
+  width: 100%;
+  max-width: 600px;
+  padding: 15px;
+  margin: auto;
+  }
+</style>
+<div class="detail_content">
+	{% if object %}
+		<img width="150" height="150"
+			 src="{% if object.profile_picture %}
+					{{object.profile_picture.url }}
+				  {% else %}
+					/media/images/placeholder.png
+				  {% endif %}"/>
+			<div style="position: relative; width:50%;">
+				<h3>Fullname: {{object.first_name}} {{object.last_name}}</h3>
+				<p>Email: {{object.email}}</p>
+				<p>Phone: {{object.phone}}</p>
+				<p>Room No: {{object.room_no}}</p>
+				<h3>Subjects :</h3>
+				{% for subj in object.subjects.all %}
+<!--					<span>{{ subj.name}},</span>-->
+					{{ subj.name}},
+				{% endfor %}
+			</div>
+	{% endif %}
+</div>
+{% endblock %}

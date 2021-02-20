@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ae67c8-870b-4703-a5d1-f3023851ee5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/templates/directory/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/directory/templates/directory/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/templates/directory/teacher_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/directory/templates/directory/teacher_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/templates/directory/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/directory/templates/directory/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_BYUOINE.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_DF95mlL.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_JNp7FrL.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_fC6VNTp.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_lIbs5Jy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_qZPxLwq.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21167_yrQFgFM.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_7CFAFVI.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_HdQDVpQ.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_JjUwbun.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_L73fidv.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_XTHcw2S.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_ajDBiTS.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21196_qPpqwsj.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_7aIfa0p.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_9zFD0Yn.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_Bh0LW38.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_KwoHWqt.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_QVhfljj.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_k5SQvN8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21309_zO0JTDc.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_4cL1eAn.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_CS0Qs7V.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_R2UuHzb.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_XeaqEZQ.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_bM7HPxS.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_fardHSA.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21350_h0RMI2e.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_DhhT9nQ.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_IYrf6Gs.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_My58ZRp.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_VnfahgO.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_cFVXBsK.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_p0Hto08.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21529_vUbEIwE.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_CVgqHmA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_Vmjjf71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_cyzihAc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_hgJYVMx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_kKyH1zw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_kLW27tb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/users/2021/02/13/21530_nkKq9yO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/snippets/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/snippets/header.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="teachers_directory" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oPnOCQdehD4kXFyw2zjdyq74Oh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/CodingWithMitch-Blog-Course-Reset-Password-and-Change-Password" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\teachers_directory\media\images" />
+      <recent name="D:\project\teachers_directory\directory\templates\directory" />
+      <recent name="D:\project\teachers_directory\media" />
+      <recent name="D:\project\teachers_directory\directory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.djangoapp">
+    <configuration name="djangoapp" type="PythonConfigurationType" factoryName="Python">
+      <module name="teachers_directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\project\teachers_directory\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teachers_directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teachers_directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/directory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/directory/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teachers_directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/account" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/account/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teachers_directory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/directory" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/directory/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.djangoapp" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.urls" />
+      <item itemvalue="Python.views (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.urls" />
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ae67c8-870b-4703-a5d1-f3023851ee5c" name="Default Changelist" comment="" />
+      <created>1613197058354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613197058354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613713887693">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1613713887693" />
+    <state x="401" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613223318402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1613223318402" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1613815904061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1613815904061" />
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1613841975353">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613841975353" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1613841975352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613841975352" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1613841975352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613841975352" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1613841975353">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613841975353" />
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom" timestamp="1613716160979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613716160979" />
+    <state width="1259" height="208" key="GridCell.Tab.1.center" timestamp="1613716160979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1613716160979" />
+    <state width="1259" height="208" key="GridCell.Tab.1.left" timestamp="1613716160979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1613716160979" />
+    <state width="1259" height="208" key="GridCell.Tab.1.right" timestamp="1613716160979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1613716160979" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1613661671363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1613661671363" />
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup" timestamp="1613838694307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="-6" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1613838694307" />
+  </component>
+</project>
