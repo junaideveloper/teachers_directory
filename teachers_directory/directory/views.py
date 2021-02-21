@@ -13,7 +13,7 @@ from django.contrib import messages
 from django.views.generic.detail import DetailView
 
 class DirectoryHomeView(ListView):
-    # login_url = '/login/'
+    login_url = '/login/'
     template_name = 'directory/home.html'
     model = Teacher
 
